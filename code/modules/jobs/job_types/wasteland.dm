@@ -298,7 +298,6 @@ Raider
 		/obj/item/book/granter/trait/bigleagues = 1
 		)
 
-
 /datum/outfit/loadout/raider_painspike
 	name = "Painspike"
 	suit = /obj/item/clothing/suit/armor/f13/raider/painspike
